@@ -6,7 +6,7 @@ In this series of exercises, we practice various refactoring techniques. You may
 - [x] Exercise 7: 'Split Temporary Variable' Technique
   - Study the files [burger_toppings.py](burger_toppings.py) and use `split temporary variable` technique to clarify the code (make it easier to understand its intent.)
 
-- [ ] Exercise 8: 'Remove Assignment to Method Parameter' Technique
+- [x]] Exercise 8: 'Remove Assignment to Method Parameter' Technique
   - Study the file [kinetic_energy.py](kinetic_energy.py). Use `remove assignment to method parameter` technique to prevent future mistakes/bugs.
 
 - [ ] Exercise 9: 'Rename Method' Technique
